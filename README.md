@@ -36,7 +36,7 @@ Training data can be downloaded in 10 parts using the following links: [Part 1](
 Unlabelled data can be found [here](https://queensuca-my.sharepoint.com/:f:/g/personal/11rjh10_queensu_ca/EmeiBTMf99VHo9jB0uZW2b4BlVHPkuGPB5p33QDUsGPkEQ?e=Q0bFFV). Participants may upload labels using the following form until 11:59pm EST May 2nd, 2025: [Upload labels for review](https://docs.google.com/forms/d/e/1FAIpQLSeEYi_e15ePejBbt0VZ0mQW13Y3eDluPST4DFsPi8RmzvAIwQ/viewform). As submissions pass through the review process they will be made available [here](https://queensuca-my.sharepoint.com/:f:/g/personal/11rjh10_queensu_ca/EjDhNL_DbcVNhfTn10upNIIB8fiS1o4dL4xa6kwveryu3A?e=eaIyqR).   
   
 #### Test Data:
-Test data can be downloaded using the following link on May 5th, 2025 here <!-- [here]  (https://queensuca-my.sharepoint.com/:u:/g/personal/11rjh10_queensu_ca/EUD1FQjlk3tHkYRwuILnzW4B6l1rlQlR8_upXd_XqLPJWw?download=1) -->
+Test data can be downloaded using the following link on May 5th, 2025 [here](https://queensuca-my.sharepoint.com/:u:/r/personal/11rjh10_queensu_ca/Documents/CREATE_Central_Line_Challenge/Test_Data.zip?download=1)
 
 ## Prepare Dataset for Training
 Once all parts of the dataset have been downloaded for training, download code or clone this repository. Navigate to the location where the code is located and use the prepareDataset.py script to unpack and format your dataset. The script can be run by entering the following lines into your command prompt (replace all instances of UserName with your real username):  
